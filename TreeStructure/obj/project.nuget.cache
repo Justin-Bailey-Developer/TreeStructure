@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u7fYBT42lIMQ/n3gENj0UPMbLwo16JW7oaVBRwTbSz4inGrLMU/vuzDlWvbokHLnX1eG2g1k+wLdO03FeoFmzw==",
+  "success": true,
+  "projectFilePath": "F:\\2021\\Semester 2\\PROG7312\\ICE\\TreeStructure\\TreeStructure\\TreeStructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\justi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

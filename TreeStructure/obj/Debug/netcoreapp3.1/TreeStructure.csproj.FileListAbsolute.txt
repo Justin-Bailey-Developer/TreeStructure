@@ -1,0 +1,26 @@
+E:\2021\Semester 2\PROG7312\LAC Activities\TreeStructure\TreeStructure\bin\Debug\netcoreapp3.1\TreeStructure.exe
+E:\2021\Semester 2\PROG7312\LAC Activities\TreeStructure\TreeStructure\bin\Debug\netcoreapp3.1\TreeStructure.deps.json
+E:\2021\Semester 2\PROG7312\LAC Activities\TreeStructure\TreeStructure\bin\Debug\netcoreapp3.1\TreeStructure.runtimeconfig.json
+E:\2021\Semester 2\PROG7312\LAC Activities\TreeStructure\TreeStructure\bin\Debug\netcoreapp3.1\TreeStructure.runtimeconfig.dev.json
+E:\2021\Semester 2\PROG7312\LAC Activities\TreeStructure\TreeStructure\bin\Debug\netcoreapp3.1\TreeStructure.dll
+E:\2021\Semester 2\PROG7312\LAC Activities\TreeStructure\TreeStructure\bin\Debug\netcoreapp3.1\TreeStructure.pdb
+E:\2021\Semester 2\PROG7312\LAC Activities\TreeStructure\TreeStructure\obj\Debug\netcoreapp3.1\TreeStructure.csprojAssemblyReference.cache
+E:\2021\Semester 2\PROG7312\LAC Activities\TreeStructure\TreeStructure\obj\Debug\netcoreapp3.1\TreeStructure.AssemblyInfoInputs.cache
+E:\2021\Semester 2\PROG7312\LAC Activities\TreeStructure\TreeStructure\obj\Debug\netcoreapp3.1\TreeStructure.AssemblyInfo.cs
+E:\2021\Semester 2\PROG7312\LAC Activities\TreeStructure\TreeStructure\obj\Debug\netcoreapp3.1\TreeStructure.csproj.CoreCompileInputs.cache
+E:\2021\Semester 2\PROG7312\LAC Activities\TreeStructure\TreeStructure\obj\Debug\netcoreapp3.1\TreeStructure.dll
+E:\2021\Semester 2\PROG7312\LAC Activities\TreeStructure\TreeStructure\obj\Debug\netcoreapp3.1\TreeStructure.pdb
+E:\2021\Semester 2\PROG7312\LAC Activities\TreeStructure\TreeStructure\obj\Debug\netcoreapp3.1\TreeStructure.genruntimeconfig.cache
+F:\2021\Semester 2\PROG7312\ICE\TreeStructure\TreeStructure\bin\Debug\netcoreapp3.1\TreeStructure.exe
+F:\2021\Semester 2\PROG7312\ICE\TreeStructure\TreeStructure\bin\Debug\netcoreapp3.1\TreeStructure.deps.json
+F:\2021\Semester 2\PROG7312\ICE\TreeStructure\TreeStructure\bin\Debug\netcoreapp3.1\TreeStructure.runtimeconfig.json
+F:\2021\Semester 2\PROG7312\ICE\TreeStructure\TreeStructure\bin\Debug\netcoreapp3.1\TreeStructure.runtimeconfig.dev.json
+F:\2021\Semester 2\PROG7312\ICE\TreeStructure\TreeStructure\bin\Debug\netcoreapp3.1\TreeStructure.dll
+F:\2021\Semester 2\PROG7312\ICE\TreeStructure\TreeStructure\bin\Debug\netcoreapp3.1\TreeStructure.pdb
+F:\2021\Semester 2\PROG7312\ICE\TreeStructure\TreeStructure\obj\Debug\netcoreapp3.1\TreeStructure.csprojAssemblyReference.cache
+F:\2021\Semester 2\PROG7312\ICE\TreeStructure\TreeStructure\obj\Debug\netcoreapp3.1\TreeStructure.AssemblyInfoInputs.cache
+F:\2021\Semester 2\PROG7312\ICE\TreeStructure\TreeStructure\obj\Debug\netcoreapp3.1\TreeStructure.AssemblyInfo.cs
+F:\2021\Semester 2\PROG7312\ICE\TreeStructure\TreeStructure\obj\Debug\netcoreapp3.1\TreeStructure.csproj.CoreCompileInputs.cache
+F:\2021\Semester 2\PROG7312\ICE\TreeStructure\TreeStructure\obj\Debug\netcoreapp3.1\TreeStructure.dll
+F:\2021\Semester 2\PROG7312\ICE\TreeStructure\TreeStructure\obj\Debug\netcoreapp3.1\TreeStructure.pdb
+F:\2021\Semester 2\PROG7312\ICE\TreeStructure\TreeStructure\obj\Debug\netcoreapp3.1\TreeStructure.genruntimeconfig.cache
